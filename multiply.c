@@ -15,7 +15,7 @@
               }
                for (int i = 0; i < 10; i++)
                {
-                printf("%d x %d = %d\n", n, i+1, table[i]);
+                printf("%d * %d = %d\n", n, i+1, table[i]);
                }
                
          }
