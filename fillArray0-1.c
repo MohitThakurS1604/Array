@@ -1,3 +1,9 @@
+/*
+ 
+ If the index value of size 10 is completely divisible by 5 then it will print 1 ortherwise it will print 0
+ 
+ */
+
 #include "stdio.h"
         
          int main()
